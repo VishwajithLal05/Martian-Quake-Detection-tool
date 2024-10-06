@@ -13,3 +13,5 @@ Features
 Requirements
 - Python 3.x
 - Required libraries: ObsPy, Pandas, Matplotlib, PIL
+
+Project by : Vishwajith Lal 
