@@ -1,5 +1,5 @@
 # Martian Quake Detection Tool 
-
+![Martian Quake](./images/MartianQuake.png)
 Overview
 The Martian Quake Detection Tool is designed to analyze seismic data from Mars and identify significant quake events based on their seismic wave amplitudes.
 
